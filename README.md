@@ -9,7 +9,7 @@
 <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Armadillo_ply.png" alt="Image 6" style="width: 16%;"/>
 
 <div style="display: flex;">
-    <span style="flex: 1 1 16%;">第一段文字</span>
+    <span style="flex: 1 1 16%;">第一段文字</span> 
     <span style="flex: 1 1 16%;">第二段文字</span>
     <span style="flex: 1 1 16%;">第三段文字</span>
     <span style="flex: 1 1 16%;">第四段文字</span>
