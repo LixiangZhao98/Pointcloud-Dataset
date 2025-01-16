@@ -8,12 +8,11 @@
 <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Armadillo_ply.png" alt="Image 5" style="width: 16%;"/>
 <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Armadillo_ply.png" alt="Image 6" style="width: 16%;"/>
 
-<div style="display: flex; justify-content: space-between;">
-    <span>第一段文字</span>
-    <span>第二段文字</span>
-    <span>第三段文字</span>
-    <span>第四段文字</span>
-    <span>第五段文字</span>
-    <span>第六段文字</span>
+<div style="display: flex;">
+    <span style="flex: 1 1 16%;">第一段文字</span>
+    <span style="flex: 1 1 16%;">第二段文字</span>
+    <span style="flex: 1 1 16%;">第三段文字</span>
+    <span style="flex: 1 1 16%;">第四段文字</span>
+    <span style="flex: 1 1 16%;">第五段文字</span>
+    <span style="flex: 1 1 16%;">第六段文字</span>
 </div>
-
