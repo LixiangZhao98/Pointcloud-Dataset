@@ -10,7 +10,7 @@
 
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <div style="text-align: center; width: 16%;">
     <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Armadillo_ply.png" alt="Image 1" style="width: 16%;"/>
