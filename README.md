@@ -10,11 +10,29 @@
 
 <table>
   <tr>
-    <td style="width:16%;">Armadillo_plyaaaa</td>
-    <td style="width:16%;">第二段文字</td>
-    <td style="width:16%;">第三段文字</td>
-    <td style="width:16%;">第四段文字</td>
-    <td style="width:16%;">第五段文字ddd</td>
-    <td style="width:16%;">第六段文字</td>
+    <td style="width:16%;">
+      <img src="image1.jpg" alt="Image 1" style="width:100%;">
+      <p>文字说明1</p>
+    </td>
+    <td style="width:16%;">
+      <img src="image2.jpg" alt="Image 2" style="width:100%;">
+      <p>文字说明2</p>
+    </td>
+    <td style="width:16%;">
+      <img src="image3.jpg" alt="Image 3" style="width:100%;">
+      <p>文字说明3</p>
+    </td>
+    <td style="width:16%;">
+      <img src="image4.jpg" alt="Image 4" style="width:100%;">
+      <p>文字说明4</p>
+    </td>
+    <td style="width:16%;">
+      <img src="image5.jpg" alt="Image 5" style="width:100%;">
+      <p>文字说明5</p>
+    </td>
+    <td style="width:16%;">
+      <img src="image6.jpg" alt="Image 6" style="width:100%;">
+      <p>文字说明6</p>
+    </td>
   </tr>
 </table>
