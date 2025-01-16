@@ -10,7 +10,7 @@
 
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
   <div style="width: 16%; text-align: center;">Text 1</div>
   <div style="width: 16%; text-align: center;">Text 2</div>
