@@ -4,11 +4,11 @@
   <tr>
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Armadillo_ply.png" alt="Image 1" style="width:100%;">
-      <center>Armadillo.ply</center>
+      <p>Armadillo.ply</p>
     </td>
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/bunny_pcd.png" alt="Image 2" style="width:100%;">
-      <center>bunny.pcd</center>
+      <p>bunny.pcd</p>
     </td>
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/chair_txt.png" alt="Image 3" style="width:100%;">
