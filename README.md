@@ -28,3 +28,27 @@
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td style="width:16%;">
+      <p style="text-align: center; font-size: 1px;">Armadillo.ply  </p>
+    </td>
+    <td style="width:16%;">
+      <p style="text-align: center; font-size: 1px;">bunny.pcd      </p>
+    </td>
+    <td style="width:16%;">
+      <p style="text-align: center; font-size: 1px;">Chair.txt      </p>
+    </td>
+    <td style="width:16%;">
+      <p style="text-align: center; font-size: 1px;">dragon.ply     </p>
+    </td>
+    <td style="width:16%;">
+      <p style="text-align: center; font-size: 1px;">Skull.txt      </p>
+    </td>
+    <td style="width:16%;">
+      <p style="text-align: center; font-size: 1px;">sphereshell.pcd</p>
+    </td>
+  </tr>
+</table>
