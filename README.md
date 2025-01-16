@@ -4,7 +4,7 @@
   <tr>
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Armadillo_ply.png" alt="Image 1" style="width:100%;">
-      <p style="text-align: center;">文字说明1</p>
+      <center>文字说明1</center>
     </td>
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Armadillo_ply.png" alt="Image 2" style="width:100%;">
