@@ -10,4 +10,15 @@
 
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
+  <div style="width: 16%; text-align: center;">Text 1</div>
+  <div style="width: 16%; text-align: center;">Text 2</div>
+  <div style="width: 16%; text-align: center;">Text 3</div>
+  <div style="width: 16%; text-align: center;">Text 4</div>
+  <div style="width: 16%; text-align: center;">Text 5</div>
+  <div style="width: 16%; text-align: center;">Text 6</div>
+
+</div>
+
 
