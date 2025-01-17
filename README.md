@@ -20,11 +20,6 @@
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/sphereshell_pcd.png" alt="Image 6" style="width:100%;">
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/Flocculentcube2_bin.png" alt="Image 1" style="width:100%;">
     </td>
@@ -42,6 +37,7 @@
     </td>
     <td style="width:16%;">
       <img src="https://github.com/LixiangZhao98/asset/blob/master/Project/PointCloud-Visualization-Tool/pic/nbody1_bin.png" alt="Image 6" style="width:100%;">
-    </td>
   </tr>
 </table>
+
+
